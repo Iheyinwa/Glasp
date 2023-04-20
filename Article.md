@@ -39,7 +39,7 @@ All you have to do is highlight - save- share - repeat.
 Since Glasp is a web browser extension, it can be installed on Chrome or Safari. In this article, I’ll guide you on how to install Glasp on Chrome. However, you can follow through to know the features of Glasp despite the web browser you’re using. 
 
   1. Go to Chrome web store, search for [Glasp](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik)
-    ![glasp-chrome](images/glaspChrome.png)
+    ![glasp-chrome](https://cdn.hashnode.com/res/hashnode/image/upload/v1682027130468/-BLa2yi7i.png?auto=format)
 
   2. Click on **Add to Chrome** and add the extension to your web browser.
    
@@ -56,7 +56,7 @@ Since Glasp is a web browser extension, it can be installed on Chrome or Safari.
 Let's take a look at how we can use Glasp while researching and some of the cool features Glasp has to offer.  
 To open Glasp in your web page, Click on the **Glasp Extension icon** in your tool bar. 
 
-![glasp-in-action](images/glaspInAction.png)
+![glasp-in-action](https://cdn.hashnode.com/res/hashnode/image/upload/v1682027188502/TWIHw5M9s.png?auto=format)
 
 - Highlight and add notes 
 
@@ -101,7 +101,7 @@ To open Glasp in your web page, Click on the **Glasp Extension icon** in your to
 
 - Home Tab 
 
-  ![glasp-home](images/glaspHome.png)
+  ![glasp-home](https://cdn.hashnode.com/res/hashnode/image/upload/v1682027240065/9-OdtOMl4.png?auto=format)
 
   This page has a lot of great contents, so we will digest them one column at a time. 
 
@@ -121,7 +121,7 @@ To open Glasp in your web page, Click on the **Glasp Extension icon** in your to
   
 - My highlights Tab
   
-  ![glasp-my-highlights](images/glaspMyHighlightpage.png)
+  ![glasp-my-highlights](https://cdn.hashnode.com/res/hashnode/image/upload/v1682027276533/KwZTO2oVe.png?auto=format)
 
     - You can edit your profile by clicking the **three dot menu** beside your name.
    
@@ -135,7 +135,7 @@ To open Glasp in your web page, Click on the **Glasp Extension icon** in your to
 
 - Explore Tab
   
-  ![glasp-explore](images/glaspExplore.png)
+  ![glasp-explore](https://cdn.hashnode.com/res/hashnode/image/upload/v1682027310640/h5KomZ5lW.png?auto=format)
 
   Connect with Glaspers from the community and increase your knowledge graph. You can search for a related glasper author or a URL to see other's thoughts on that web page. 
   

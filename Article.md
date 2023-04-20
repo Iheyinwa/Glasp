@@ -3,7 +3,7 @@ title: GLASP - THE WEB HIGHLIGHTER 📚 ✨
 slug: glasp-web-highlighter
 tags: learning, reading, technical writing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682019798680/Ag3aPJJUy.webp?auto=format
-domain: https://iheyinwa.hashnode.dev/
+domain: https://iheyinwa.hashnode.dev/glasp-the-web-highlighter
 ---
 
 <!-- ![glasp-hero](images/glaspHero.webp) -->
@@ -117,7 +117,7 @@ To open Glasp in your web page, Click on the **Glasp Extension icon** in your to
 
     - **Popular tab** filters highlights in Glasp that have gained interaction amongst various people. 
 
-    - **The community page** shows you how many people have highlights based on the active highlight. You can click on **Community Page** link to connect with like-minds. 
+    - **The community page** shows you how many people have highlights based on the active highlight block. You can click on **Community Page** link to connect with like-minds. 
   
 - My highlights Tab
   

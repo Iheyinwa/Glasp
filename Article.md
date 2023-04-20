@@ -1,5 +1,5 @@
 ---
-title: GLASP: THE WEB HIGHLIGHTER 📚 ✨
+title: GLASP - THE WEB HIGHLIGHTER 📚 ✨
 subtitle: An example subtitle
 slug: post-from-github-as-source
 tags: learning, reading, technical writing

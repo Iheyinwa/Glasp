@@ -1,7 +1,6 @@
 ---
 title: GLASP - THE WEB HIGHLIGHTER 📚 ✨
-subtitle: An example subtitle
-slug: post-from-github-as-source
+slug: glasp-web-highlighter
 tags: learning, reading, technical writing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682019798680/Ag3aPJJUy.webp?auto=format
 domain: https://iheyinwa.hashnode.dev/

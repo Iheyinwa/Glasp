@@ -13,28 +13,28 @@ Have you ever found an interesting line while reading an article on the web and 
 
 This article introduces the concept of Glasp, its features and how to make the most out of Glasp extension. We will look at the article under the following subheadings. 
 
-  [1. What is Glasp](#1-what-is-glasp)
+  [What is Glasp](#1-what-is-glasp)
 
-  [2. Who can use Glasp](#2-who-can-use-glasp)
+  [Who can use Glasp](#2-who-can-use-glasp)
 
-  [3. Adding Glasp extension](#3-adding-glasp-extension)
+  [Adding Glasp extension](#3-adding-glasp-extension)
 
-  [4. What's special about Glasp](#4-whats-special-about-glasp)
+  [What's special about Glasp](#4-whats-special-about-glasp)
 
-  [5. Glasp at a glance](#5-glasp-at-a-glance)
+  [Glasp at a glance](#5-glasp-at-a-glance)
 
-  [6. Conclusion](#6-conclusion)
+  [Conclusion](#6-conclusion)
 
-## 1. What is Glasp
+## What is Glasp
 
 Glasp is a free web browser extension and a social web highlighter that facilitates reading, writing and sharing knowledge. Just as your normal highlighter, Glasp helps you to highlight striking phrases, words and sentences and make quick notes as you browse the web. This feature enables easy referencing while studying. Glasp, the Greatest Legacy Accumulated as Shared Proof  helps you leave digital footprints in the digital world. You can impact people through reading and become an influencer through your research. 
 All you have to do is highlight - save- share - repeat.
 
-## 2. Who can use Glasp
+## Who can use Glasp
 
  Anyone that seeks to develop oneself through knowledge will find Glasp very insightful. Glasp is designed to suite anyone from writers to readers.
 
-## 3. Adding Glasp extension
+## Adding Glasp extension
 
 Since Glasp is a web browser extension, it can be installed on Chrome or Safari. In this article, I’ll guide you on how to install Glasp on Chrome. However, you can follow through to know the features of Glasp despite the web browser you’re using. 
 
@@ -51,7 +51,7 @@ Since Glasp is a web browser extension, it can be installed on Chrome or Safari.
    
   6. Welcome to Glasp 📚 ✨.
 
-## 4. What's special about Glasp
+## What's special about Glasp
 
 Let's take a look at how we can use Glasp while researching and some of the cool features Glasp has to offer.  
 To open Glasp in your web page, Click on the **Glasp Extension icon** in your tool bar. 
@@ -95,7 +95,7 @@ To open Glasp in your web page, Click on the **Glasp Extension icon** in your to
 
 - Toggle the button below the sidebar to disable or enable Glasp on a particular web page. 
   
-## 5. Glasp at a glance
+## Glasp at a glance
 
   Let's take a walkthrough our Glasp user profile. Click on the user icon or the home icon on the top-right corner. This opens a web page with Home, My Highlights and Explore tab. We will look into these tabs in details. 
 
@@ -139,6 +139,6 @@ To open Glasp in your web page, Click on the **Glasp Extension icon** in your to
 
   Connect with Glaspers from the community and increase your knowledge graph. You can search for a related glasper author or a URL to see other's thoughts on that web page. 
   
-## 6. Conclusion
+## Conclusion
 
 Glasp features makes reading, learning and writing fun and easy. Become a Glasper today!, and increase your knowledge intake. 
